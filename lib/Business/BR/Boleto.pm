@@ -1,5 +1,5 @@
 package Business::BR::Boleto;
-$Business::BR::Boleto::VERSION = '0.000001';
+$Business::BR::Boleto::VERSION = '0.000002';
 use Moo;
 use Carp;
 
@@ -158,7 +158,7 @@ Business::BR::Boleto - A system to generate Brazilian Boletos
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

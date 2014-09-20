@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Renderer::PDF;
-$Business::BR::Boleto::Renderer::PDF::VERSION = '0.000001';
+$Business::BR::Boleto::Renderer::PDF::VERSION = '0.000002';
 use Moo;
 use PDF::API2;
 use Const::Fast;
@@ -173,7 +173,7 @@ Business::BR::Boleto::Renderer::PDF
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

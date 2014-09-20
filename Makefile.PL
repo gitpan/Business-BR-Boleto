@@ -16,10 +16,7 @@ my %WriteMakefileArgs = (
     "ExtUtils::MakeMaker" => "6.30"
   },
   "DISTNAME" => "Business-BR-Boleto",
-  "EXE_FILES" => [
-    "bin/boleto.pl",
-    "bin/test.pl"
-  ],
+  "EXE_FILES" => [],
   "LICENSE" => "perl",
   "NAME" => "Business::BR::Boleto",
   "PREREQ_PM" => {
@@ -36,7 +33,7 @@ my %WriteMakefileArgs = (
   "TEST_REQUIRES" => {
     "Test::Most" => "0.34"
   },
-  "VERSION" => "0.000001",
+  "VERSION" => "0.000002",
   "test" => {
     "TESTS" => "t/*.t t/business/br/boleto/*.t"
   }

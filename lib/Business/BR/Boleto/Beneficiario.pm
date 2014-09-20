@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Beneficiario;
-$Business::BR::Boleto::Beneficiario::VERSION = '0.000001';
+$Business::BR::Boleto::Beneficiario::VERSION = '0.000002';
 use Moo;
 use Business::BR::Boleto::Codigo;
 
@@ -36,7 +36,7 @@ Business::BR::Boleto::Beneficiario
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

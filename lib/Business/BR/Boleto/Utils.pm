@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Utils;
-$Business::BR::Boleto::Utils::VERSION = '0.000001';
+$Business::BR::Boleto::Utils::VERSION = '0.000002';
 use Moo;
 extends 'Exporter';
 
@@ -83,7 +83,7 @@ Business::BR::Boleto::Utils
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

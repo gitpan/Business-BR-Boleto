@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Codigo;
-$Business::BR::Boleto::Codigo::VERSION = '0.000001';
+$Business::BR::Boleto::Codigo::VERSION = '0.000002';
 use Moo;
 
 has 'numero' => (
@@ -26,7 +26,7 @@ Business::BR::Boleto::Codigo
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

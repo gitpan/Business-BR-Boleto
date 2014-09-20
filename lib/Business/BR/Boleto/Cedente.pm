@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Cedente;
-$Business::BR::Boleto::Cedente::VERSION = '0.000001';
+$Business::BR::Boleto::Cedente::VERSION = '0.000002';
 use Moo;
 extends 'Business::BR::Boleto::Pessoa';
 
@@ -42,7 +42,7 @@ Business::BR::Boleto::Cedente
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

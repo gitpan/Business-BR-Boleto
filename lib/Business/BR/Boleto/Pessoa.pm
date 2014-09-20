@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Pessoa;
-$Business::BR::Boleto::Pessoa::VERSION = '0.000001';
+$Business::BR::Boleto::Pessoa::VERSION = '0.000002';
 use Moo;
 use Carp;
 
@@ -32,7 +32,7 @@ Business::BR::Boleto::Pessoa
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

@@ -1,5 +1,5 @@
 package Business::BR::Boleto::Role::Banco;
-$Business::BR::Boleto::Role::Banco::VERSION = '0.000001';
+$Business::BR::Boleto::Role::Banco::VERSION = '0.000002';
 use Moo::Role;
 use File::ShareDir qw{ module_file };
 
@@ -26,7 +26,7 @@ Business::BR::Boleto::Role::Banco
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 

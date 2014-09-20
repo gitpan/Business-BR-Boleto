@@ -2,7 +2,7 @@ NAME
     Business::BR::Boleto - A system to generate Brazilian Boletos
 
 VERSION
-    version 0.000001
+    version 0.000002
 
 AUTHOR
     Blabos de Blebe <blabos@cpan.org>

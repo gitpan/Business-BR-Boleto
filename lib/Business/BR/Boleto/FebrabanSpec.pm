@@ -1,5 +1,5 @@
 package Business::BR::Boleto::FebrabanSpec;
-$Business::BR::Boleto::FebrabanSpec::VERSION = '0.000001';
+$Business::BR::Boleto::FebrabanSpec::VERSION = '0.000002';
 use Moo;
 
 use Business::BR::Boleto::Utils qw{ mod11 };
@@ -69,7 +69,7 @@ Business::BR::Boleto::FebrabanSpec
 
 =head1 VERSION
 
-version 0.000001
+version 0.000002
 
 =head1 AUTHOR
 
